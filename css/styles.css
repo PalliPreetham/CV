@@ -1,0 +1,170 @@
+body{
+  background-color: #dff3e3;
+  text-align:center;
+  color: #40514E;
+  margin:0;
+}
+h1{
+  margin-left: 20px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 60px;
+
+}
+
+
+.mountain{
+  margin-top: 20px;
+  width: 500px;
+
+}
+.top-container{
+  padding-top: 60px;
+  position: relative;
+
+}
+
+.middle-container{
+  text-align: left;
+  line-height: 2;
+}
+.right-cloud{
+  position:absolute;
+  right:280px;
+  top: 150px;
+}
+.left-cloud{
+  position: absolute;
+
+
+  left:130px;
+  bottom:90px;
+  width: 15%;
+
+
+}
+hr{
+  border-top: dotted #EAF6F6 6px;
+  width: 4%;
+  margin:100px auto;
+}
+h2{
+  font-family: 'Ubuntu', sans-serif;
+  margin: auto;
+  padding-top: 30px;
+}
+
+
+.education{
+  width: 50%;
+    margin: 100px auto;
+}
+
+p{
+  line-height: 2;
+  font-size: 20px;
+}
+.experience{
+  width: 50%;
+    margin: 100px auto;
+}
+.projects{
+  width: 50%;
+    margin: 100px auto;
+}
+.skills{
+  width: 50%;
+  margin: 100px auto;
+}
+.Additional-Information{
+  width: 50%;
+  margin: 100px auto;
+}
+.contact-me{
+  width: 50%;
+  margin: 100px auto;
+}
+.table{
+  line-height: 2;
+  width: 50%;
+  text-align: left;
+  margin-right: 380px;
+}
+.image1{
+  width:20%;
+  float: left;
+  margin-right: 30px;
+}
+.image2{
+  width:20%;
+  float: right;
+  margin-left: 30px;
+}
+.image3{
+  width:20%;
+  float: left;
+  margin-right: 30px;
+}
+.image4{
+  width:20%;
+  float: right;
+  margin-left: 30px;
+}
+.image5{
+  width:20%;
+  float: left;
+  margin-right: 30px;
+}
+.image6{
+  width:20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.myButton {
+	box-shadow: 0 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:17px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:14px 21px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  background: #64dfdf;
+}
+.contacts{
+  padding: 10px 10px;
+}
+.creditinfo{
+  margin: 10px 10px;
+}
+.footer-link2{
+  margin:0 10px;
+  text-decoration: none;
+
+}
+.footer-link1{
+  text-decoration: none;
+
+}
+.footer-link3{
+  text-decoration: none;
+}
+
+.creditinfo{
+  text-decoration: none;
+}
